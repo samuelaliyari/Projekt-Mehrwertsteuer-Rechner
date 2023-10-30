@@ -1,5 +1,5 @@
 
-# Project Vatcalculater
+# Project Vat.calculator
 
 A practical project for Supercode Fullstack Web-Dev Bootcamp.
 
